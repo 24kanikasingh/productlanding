@@ -1,0 +1,64 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+#image{
+	width: 30vw; 
+	margin :auto;
+	vertical-align: top;
+}
+/*navigation*/
+#main-nav ul  {
+   
+    width:100%;
+
+}
+
+#main-nav ul li{
+     display:inline-block;
+     text-align: right;
+     padding: 0px 20px 0px 20px;
+    font-size: 20px;
+}
+#main-nav ul li img{
+	float: left;
+	margin:auto;
+}
+
+#main-nav ul {
+     float:right;
+     text-align:right;
+     height:40px;
+
+
+}
+#main-nav ul li a{
+
+	color: black;
+	text-decoration: none;
+}
+#main-body{
+	text-align: center;
+	font-size: 25px;
+	font-family: sans-serif;
+
+}
+.button{
+	text-align: center;
+	color: #595959;
+	margin-left: 50px;
+	background-color: #ffcc00;
+	 padding: 0px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+
+    }
+ #mytextbox1{
+ 	margin: 20px 10px 20px 50px;
+ }
+h3{
+	margin: 45px 25px 35px 25%;
+	text-align: left;
+}
+
+
+
